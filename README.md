@@ -1,5 +1,5 @@
-Hey guys,
-I'm Alisha 💫
+                                                                                                      Hey guys,
+                                                                                                     I'm Alisha 💫
 
 ```
 export default () => ({
@@ -27,3 +27,7 @@ export default () => ({
   ]
 });
 ```
+
+🌱 I’m currently learning AIML
+💬 Ask me anything on Web Dev
+📧 Reach me: itsalisha220@gmail.com
