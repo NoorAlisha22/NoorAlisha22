@@ -1,5 +1,4 @@
-                                                          Hey guys,
-                                                                I'm Alisha 💫
+Hey guys, I'm Alisha 💫
 
 
 ```
