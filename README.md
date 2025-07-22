@@ -1,35 +1,36 @@
-Hey guys, I'm Alisha 💫
-
+Hey there 👋, I'm Alisha 💫  
+A passionate **Full-Stack Web Developer** crafting responsive and scalable web apps.
 
 ```
 export default () => ({
   askMeAbout: [
-    "Web-Dev", "AIML",
+    "Web Development", "Frontend & Backend", "ReactJS", "FastAPI", "Full-Stack Projects"
   ],
   technologies: {
-    "Programming languages": ["Python"],
-    "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript", "ReactJS", "Material-UI" ],
-    "databases": [ "MySQl" ],
-    "applications": ["Microsoft Office" ],
-    "mathematicsAndStatistics": [ "NumPy", "Pandas", "SciPy" ],
-    "machineLearning": [ "scikit-learn", "TensorFlow", "Keras" ],
-    "datavisualization": [ "Matplotlib", "Seaborn" ],
-    "devOpsTools": [ "Git" ],
-    "editors": [ "VSCode", "Pycharm", "Jupyter Notebook", "Notepad++" ]
+    "Programming languages": ["JavaScript", "Python"],
+    "frontend": [ 
+      "HTML", "CSS", "Bootstrap", "Tailwind CSS", 
+      "JavaScript", "ReactJS", "Material-UI"
+    ],
+    "backend": [
+      "Node.js", "Express.js", "FastAPI", "RESTful APIs"
+    ],
+    "databases": [ "MySQL" ],
+    "versionControl": [ "Git", "GitHub" ],
+    "toolsAndPlatforms": [ "VSCode", "Postman", "Netlify", "Vercel", "Render" ],
+    "design": ["Responsive Design", "UI/UX Principles", "Figma (Basic)"],
   },
-   Skills: [
-    "Leadership", "Team Building", "Decision Making",
-    "Problem Solving", "Time Management", "Quick Learner" 
+  Skills: [
+    "Full-Stack Development", "Problem Solving", "API Integration",
+    "Team Collaboration", "Debugging", "Time Management", "Quick Learner"
   ],
-   Interest: [
-    "Technology", "Coding", "Reading",
-    "Badminton", "Music"
+  Interest: [
+    "Building Scalable Web Apps", "UI Design", "Open Source Contributions",
+    "Backend Architecture", "Music", "Reading"
   ]
 });
 ```
 
-🌱 I’m currently learning AIML
+💬 Ask me anything about Web Development
 
-💬 Ask me anything on Web Dev
-
-📧 Reach me: itsalisha220@gmail.com
+📧 Reach me at: itsalisha220@gmail.com
