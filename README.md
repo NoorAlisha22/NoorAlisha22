@@ -26,7 +26,7 @@ export default () => ({
   ],
   Interest: [
     "Building Scalable Web Apps", "UI Design", "Open Source Contributions",
-    "Backend Architecture", "Music", "Reading"
+    "Backend Architecture", "Music"
   ]
 });
 ```
