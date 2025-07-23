@@ -13,12 +13,12 @@ export default () => ({
       "JavaScript", "ReactJS", "Material-UI"
     ],
     "backend": [
-      "Node.js", "Express.js", "FastAPI", "RESTful APIs"
+      "Python", "FastAPI", "RESTful APIs"
     ],
     "databases": [ "MySQL" ],
     "versionControl": [ "Git", "GitHub" ],
     "toolsAndPlatforms": [ "VSCode", "Postman", "Netlify", "Vercel", "Render" ],
-    "design": ["Responsive Design", "UI/UX Principles", "Figma (Basic)"],
+    "design": ["Responsive Design"],
   },
   Skills: [
     "Full-Stack Development", "Problem Solving", "API Integration",
